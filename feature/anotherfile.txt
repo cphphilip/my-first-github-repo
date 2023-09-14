@@ -3,3 +3,5 @@ This file was updated to check.
 This another file was modified locally.
 
 This file was modified in feature-2 branch
+
+Another modfication was made in feature-2 brnach.
