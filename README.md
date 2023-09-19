@@ -1,3 +1,3 @@
 # my-first-github-repo
 
-README.md file was just edited 
+This file was modified to resolve conflicts
